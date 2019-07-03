@@ -111,6 +111,7 @@ int main()
 		{
 			system("clear");
 			// Imprime o jogo atual no terminal
+			cout << "Tic Tac Toe\n" << endl;
 			for (int l = 0; l < 4; l++)
 			{
 			 	for (int c = 0; c < 4; c++)
